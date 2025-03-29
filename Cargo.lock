@@ -3427,6 +3427,7 @@ dependencies = [
  "rayon",
  "reblessive",
  "regex",
+ "reqwest",
  "revision",
  "ring",
  "rmpv",
